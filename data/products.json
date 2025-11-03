@@ -1,50 +1,12 @@
-[
-  {
-    "id": 101,
-    "name": "Classic Braqz Clog",
-    "category": "clogs",
-    "color": "black",
-    "sizes": ["38", "39", "40", "41", "42", "43"],
-    "price": 14500,
-    "images": ["assets/sample-1.jpg", "assets/sample-2.jpg", "assets/sample-3.jpg"],
-    "tags": ["men", "women", "classic"],
-    "added": "2025-10-10",
-    "description": "Lightweight, water-friendly clog with ventilated upper and pivoting heel strap. Everyday comfort for Nigeria's climate."
-  },
-  {
-    "id": 102,
-    "name": "Braqz Slide Essential",
-    "category": "slides",
-    "color": "white",
-    "sizes": ["38", "39", "40", "41", "42", "43"],
-    "price": 9500,
-    "images": ["assets/sample-2.jpg", "assets/sample-1.jpg"],
-    "tags": ["men", "women"],
-    "added": "2025-10-20",
-    "description": "Soft footbed slide with grippy outsole. Perfect for campus, gym, and quick errands."
-  },
-  {
-    "id": 103,
-    "name": "Braqz Sandal Stride",
-    "category": "sandals",
-    "color": "blue",
-    "sizes": ["37", "38", "39", "40"],
-    "price": 12000,
-    "images": ["assets/sample-3.jpg", "assets/sample-1.jpg"],
-    "tags": ["women", "cozy"],
-    "added": "2025-10-28",
-    "description": "Secure straps, cloud-like cushioning, and water‑friendly materials."
-  },
-  {
-    "id": 104,
-    "name": "Braqz Charm Pack — Starter (5 pcs)",
-    "category": "charms",
-    "color": "multi",
-    "sizes": [],
-    "price": 3500,
-    "images": ["assets/sample-1.jpg"],
-    "tags": ["charms"],
-    "added": "2025-10-05",
-    "description": "Mix-and-match charms to personalize your pair. Fits most ventilated clogs and slides."
-  }
-]
+{
+  "id": 201,
+  "name": "Braqz Classic Clog",
+  "category": "clogs",
+  "color": "black",
+  "sizes": ["38","39","40","41","42","43"],
+  "price": 14500,
+  "images": ["asset/clogs.jpg", "asset/slides.jpg"],
+  "tags": ["men","women","classic"],
+  "added": "2025-11-03",
+  "description": "Lightweight, water-friendly clog."
+}
